@@ -31,5 +31,6 @@ Comparision:
 CNN
 -The nearby data points for streamline flow of Ganges will be very similar in range. Data farther away from each other has chances to change abruptly. Thus, this data is not fully connected and convolutional layer will be adequate.
 -Fully connected networks result in overfitting data for CNN.
--CNN works well on large data. This model makes one-step predictions and outputs are fed as inputs for subsequent predictions. 
+-CNN works well on large data. 
+-This model makes one-step predictions and outputs are fed as inputs for subsequent predictions. 
 
