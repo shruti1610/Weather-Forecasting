@@ -1,14 +1,14 @@
 # Weather-Forecasting
 
 RNN and LSTM
->>Import libraries and read the CSV file
->Plot original data
->Perform split_sequence(data, n_steps) that will split the sequence of data into time window that is 20 and is also gathers input and output parts of the pattern.
->Split the data into training (1996 – 2009) , validation (2010 – 2011) and testing data(2012 – 2016)
->Train the data and make predictions using RNN and LTSM model.
->Check the performance of both the models by making data stationary.
->Calculate the RMSE value
->Evaluate the results.
+- Import libraries and read the CSV file.
+- Plot original data
+- Perform split_sequence(data, n_steps) that will split the sequence of data into time window that is 20 and is also gathers input and output parts of the pattern.
+- Split the data into training (1996 – 2009) , validation (2010 – 2011) and testing data(2012 – 2016)
+- Train the data and make predictions using RNN and LTSM model.
+- Check the performance of both the models by making data stationary.
+- Calculate the RMSE value
+- Evaluate the results.
 
 RNN
 >Recurrent Neural Networks or RNNs are a special type of neural network designed for sequence problems.
